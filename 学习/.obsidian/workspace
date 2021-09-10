@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "e7ecf76dfff904e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b906dc0a5c0b392e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "嘻嘻嘻.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08a171299ae312bd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4106da40f4a3832",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2e61f8b86f494269",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bffd263aa53d70c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6219685382833025",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "嘻嘻嘻.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b906dc0a5c0b392e",
+  "lastOpenFiles": [
+    "嘻嘻嘻.md",
+    "未命名.md"
+  ]
+}
